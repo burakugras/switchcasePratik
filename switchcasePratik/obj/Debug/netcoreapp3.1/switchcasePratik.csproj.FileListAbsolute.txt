@@ -1,0 +1,13 @@
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/bin/Debug/netcoreapp3.1/switchcasePratik.deps.json
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/bin/Debug/netcoreapp3.1/switchcasePratik.runtimeconfig.json
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/bin/Debug/netcoreapp3.1/switchcasePratik.runtimeconfig.dev.json
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/bin/Debug/netcoreapp3.1/switchcasePratik.dll
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/bin/Debug/netcoreapp3.1/switchcasePratik.pdb
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.csproj.AssemblyReference.cache
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.AssemblyInfoInputs.cache
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.AssemblyInfo.cs
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.csproj.CoreCompileInputs.cache
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.dll
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.pdb
+/Users/macburak/Projects/switchcasePratik/switchcasePratik/obj/Debug/netcoreapp3.1/switchcasePratik.genruntimeconfig.cache
